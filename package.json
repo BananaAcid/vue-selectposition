@@ -1,0 +1,27 @@
+{
+    "name": "vue-selectposition",
+    "version": "1.0.0",
+    "description": "position selection component for Vue and/or Framework7",
+    "main": "src/selectPosition.vue",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/BananaAcid/vue-selectposition.git"
+    },
+    "keywords": [
+        "vue",
+        "vuejs",
+        "framework7",
+        "position",
+        "select"
+    ],
+    "author": "Nabil Redmann <repo+vue-selectposition@BananaAcid.de>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/BananaAcid/vue-selectposition/issues"
+    },
+    "homepage": "https://github.com/BananaAcid/vue-selectposition#readme",
+    "engines": {
+        "node": ">= 10.0",
+        "deno": ">= 1.0"
+    }
+}
